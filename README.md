@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **C++, Java, Node.js, MongoDB**
 
-- 👯 I’m looking to collaborate on [TaylorIndicate](https://github.com/smukhyala/TaylorIndicate)
-
-- 🤝 I’m looking for help with [TaylorIndicate](https://github.com/smukhyala/TaylorIndicate)
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sanjay-mukhyala-559423272/](https://www.linkedin.com/in/sanjay-mukhyala-559423272/)
 
 - 📝 I regularly write articles on [https://streetfins.com/author/sanjay-mukhyala/](https://streetfins.com/author/sanjay-mukhyala/)
