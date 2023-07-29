@@ -1,3 +1,10 @@
+# Hi there, I'm **Sanjay Mukhyala**
+#### I like to say I'm becoming a full-stack dev. I tinker with Python, Java, C++, and Web Dev (Nodejs, JS, HTML, CSS etc...).
+
+## And if you wanna try and get in contact with me, try here:
+### Personal: [smukhyala@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=smukhyala@gmail.com)
+### School: [25mukhyalas62@stu.smuhsd.org](https://mail.google.com/mail/?view=cm&fs=1&to=25mukhyalas62@stu.smuhsd.org)
+
 # 💫 About Me:
 🔭 I’m currently working on PerfectDay and DoulAI.<br>👯 I’m looking to collaborate on Fintech tools.<br>🤝 I’m looking for help with MongoDB and database management.<br>🌱 I’m currently learning Java and C++<br>💬 Ask me about Python, BeeWare, Flet, HTML/CSS, JS, OpenAI, React<br>⚡ Fun fact - I want to enter quantitative finance.
 
