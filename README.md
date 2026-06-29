@@ -1,4 +1,5 @@
 Sanjay Mukhyala
+
 Applied Mathematics, Data Science @ UC Berkeley
 
 Interested in machine learning, AI agents, and building products from research.
