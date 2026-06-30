@@ -8,7 +8,7 @@ Currently working on:
 * LLM evaluation and adaptive inference
 * Agentic AI systems
 * Open-source AI projects
-* Startups
+* Different Startup ideas
 
 Most repositories here are research implementations, experiments, and projects exploring new ideas in AI.
 Always learning, building, and shipping.
