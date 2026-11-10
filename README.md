@@ -6,11 +6,9 @@ Interested in machine learning, AI agents, and building products from research.
 
 Currently working on:
 * LLM evaluation and adaptive inference
-* Agentic AI systems
-* Open-source AI projects
-* Different Startup ideas
+* Whatever I find cool
 
-Most repositories here are research implementations, experiments, and projects exploring new ideas in AI.
-Always learning, building, and shipping.
+Most repositories here are research implementations, experiments, and projects exploring random ideas I have.
+Goal here is to keep learning, building, and shipping.
 
 smukhyala@gmail.com, sanjay-mukhyala@berkeley.edu, https://sanjay-mukhyala.com/
